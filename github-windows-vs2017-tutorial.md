@@ -38,7 +38,7 @@ It is now time to jump in to Visual Studio 2017!  You will be working in the Tea
 
 Team Explorer has many views and there are navigation buttons located at the top to help you find the different areas.  To clone a repo, you need to be on the Connect view, which should be the default.  If you do not see the 'clone' button, click the green plug at the top.
 
-Click the `Clone` option under **Local Git Repositories** and paste the URL to your repo in the text box.  This should be the URL you copied to your clipboard from GitHub previously.
+Click the `Clone` option under **Local Git Repositories** and paste the URL to your repo in the text box.  This should be the URL you copied to your clipboard from GitHub previously.Now I' creating a new file to endure that this is not connected as a contribution and the all in one size of the initial acceptance of the basic rule of the society.
 
 Click the `Clone` button to initiate the process.
 
